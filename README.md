@@ -3,3 +3,9 @@ OneDrive link: https://gohkust-my.sharepoint.com/:f:/r/personal/lbaster_ust_hk/D
 
 # Tweet query parameter list
 https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
+
+# To Start WordCloud Visualization Website
+```bash
+npm install -g serve
+serve -s wordcloud-vis
+```
