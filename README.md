@@ -9,3 +9,5 @@ https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-
 npm install -g serve
 serve -s wordcloud-vis
 ```
+# To install Quarto
+https://quarto.org/docs/get-started/
