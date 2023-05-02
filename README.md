@@ -7,7 +7,8 @@ https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-
 # To Start WordCloud Visualization Website
 ```bash
 npm install -g serve
-serve -s wordcloud-vis
+cd wordcloud-vis
+serve
 ```
 # To install Quarto
 https://quarto.org/docs/get-started/
